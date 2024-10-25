@@ -1,13 +1,11 @@
-package com.example.demo;
+package com.example.leaveapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StudentdashboardApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(StudentdashboardApplication.class, args);
-	}
-
+public class LeaveAppApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(LeaveAppApplication.class, args);
+    }
 }
